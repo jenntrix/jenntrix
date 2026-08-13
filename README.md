@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jennifer 👋
 
-<!--
-**jenntrix/jenntrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA Engineer with 15+ years of experience in technology, with a background in development, technical support, product, and quality assurance. This experience has helped me understand software from different perspectives and made me very focused on finding issues, improving processes, and helping teams deliver better products.
 
-Here are some ideas to get you started:
+I have experience with manual and automated testing, including functional, regression, smoke, exploratory, API, and mobile testing. I work with Playwright, JavaScript, Cypress, Postman, SQL, GitHub Actions, Docker, and CI/CD, and I have also built a Playwright automation framework from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 I use tools like Claude, ChatGPT, and GitHub Copilot to help me debug errors, find better selectors, understand complex logic, and improve my automation work.
+
+🔭 I’m currently working on QA projects to keep improving my skills in UI, API, database, and CI/CD testing.
+
+🕵🏻‍♀️ I’m always open to learning new things and collaborating on QA and test automation projects. Feel free to connect with me!
+
+### More projects coming soon 🚀
