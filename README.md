@@ -1,4 +1,4 @@
-# Hi, I'm Jennifer 👋
+### Hi, I'm Jennifer 👋
 
 I am a QA Engineer with 15+ years of experience in technology, with a background in development, technical support, product, and quality assurance. This experience has helped me understand software from different perspectives and made me very focused on finding issues, improving processes, and helping teams deliver better products.
 
